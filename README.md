@@ -4,7 +4,7 @@ bda-modulo-1-evaluacion-final-sanchocotanda created by GitHub Classroom
 Proyecto basaddo en el sistema de gestión de una tienda, en este caso se trata de una paquetería.
 Autora: Maria Sancho
 
-El menú permite, a partir de una lista vacía:
+A partir de una lista vacía, este proyecto permite:
 - Añadir productos
 - Ver inventario
 - Buscar productos
